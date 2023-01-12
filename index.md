@@ -11,6 +11,8 @@ Congratulations! You've made it to the most **crucial** step. There is something
 
 Once that is done, follow the steps in [this post](https://stackoverflow.com/a/50527994) to set your terminal in VSCode to use *git bash*.
 
+Welcome back Mac users. We're getting closer to connecting to the lab computers. But first, you need to find your course-specific account in order to log in. Go to [this page](https://sdacs.ucsd.edu/~icc/index.php) and look up your username. Once your have your username, head over to VSCode and open up a terminal to
+
 
 
 
