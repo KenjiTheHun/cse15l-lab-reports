@@ -31,12 +31,6 @@ Here are some commands to try out:
 Here's an example of me running `ls -a`, which displays all files, including hidden ones, inside the current directory:
 ![Image](Commands.png)
 
+Once you finish running commands and want to exit the remote server, run `exit` or just Ctrl-D.
 
-
-
-
-
-
-
-
-
+Congrats! You've just learned how to connect to lab computers and run simple commands via your personal laptop.
