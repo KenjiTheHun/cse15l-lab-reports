@@ -18,6 +18,19 @@ Now it's time to connect remotely. Open up a terminal in your VSCode and type in
 
 ![Image](RemoteConnect.png)
 
+Once you see this, your laptop has successfully connected to the lab computers.
+
+## Step 4: Trying Some Commands
+Now that we have the remote connection up and running, it's time to try out some commands. 
+Here are some commands to try out:
+* cd ~
+* ls -lat
+* ls -a
+* cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+
+
+
+
 
 
 
