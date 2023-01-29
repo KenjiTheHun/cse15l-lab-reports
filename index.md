@@ -16,6 +16,7 @@ Once that is done, follow the steps in [this post](https://stackoverflow.com/a/5
 Welcome back Mac users. We're getting closer to connecting to the lab computers. But first, you need to find your course-specific account in order to log in. Go to [this page](https://sdacs.ucsd.edu/~icc/index.php) and look up your username. Once your have your username, you'll need to reset the password for your account, here's the tutorial: [[TUTORIAL] How to Reset your Password](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit).
 
 ![Image](ETSAccount.png)
+Click the button under additional account and change your password from there.
 
 When you have your username and password then you're ready to connect.
 
