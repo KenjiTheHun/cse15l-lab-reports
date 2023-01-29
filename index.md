@@ -21,13 +21,15 @@ Click the button under additional account and change your password from there.
 When you have your username and password then you're ready to connect.
 
 ## Step 3: Remote Connection
-Now it's time to connect remotely. Open up a terminal in your VSCode and type in the following command `ssh cs15lwi23xx@ieng6.ucsd.edu` and replacing the `xx` with the letters in your own username you looked up. As this is most likely your first time connecting to the server, you'll this authentication message 
+Now it's time to connect remotely. Open up a terminal in your VSCode and type in the following command `ssh cs15lwi23xx@ieng6.ucsd.edu` and replacing the `xx` with the letters in your own username you looked up. As this is most likely your first time connecting to the server, you'll see this authentication message: 
 
 ```
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. 
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. 
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
+
+Just say yes and you'll be prompted to enter your password to connect.
 
 After your enter your password, your terminal should look like this: 
 
