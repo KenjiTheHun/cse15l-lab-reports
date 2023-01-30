@@ -45,8 +45,9 @@ Here are some commands to try out:
 * `ls -a` displays all files in the current directory
 * `cat /home/linux/ieng6/cs15lwi23/public/hello.txt` displays the content of the file hello.txt
 
-Here's an example of me running `ls -a`, which displays all files, including hidden ones, inside the current directory:
-![Image](Commands.png)
+Here's an example of me running some different commands and the display:
+
+
 
 Once you finish running commands and want to exit the remote server, run `exit` or just Ctrl-D.
 
