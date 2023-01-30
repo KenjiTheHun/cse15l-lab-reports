@@ -47,7 +47,7 @@ Here are some commands to try out:
 
 Here's an example of me running some different commands and the display:
 
-
+![Image](Commands.png)
 
 Once you finish running commands and want to exit the remote server, run `exit` or just Ctrl-D.
 
